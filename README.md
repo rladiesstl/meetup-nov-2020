@@ -1,6 +1,6 @@
-## Materials for the R-Ladies St. Louis meetup on October 8, 2020
+## Materials for the R-Ladies St. Louis meetup on November 11, 2020
 
-### An Introduction to Data Visualization in R with ggplot2 with Meenakshi Kushwaha
+### Intro to Network Analysis with R with Dr. Maria C. Ramos
 
 About R-Ladies St. Louis Intro slides: 
 
