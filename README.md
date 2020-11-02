@@ -2,5 +2,5 @@
 
 ### Intro to Network Analysis with R with Dr. Maria C. Ramos
 
-About R-Ladies St. Louis Intro slides: https://rladiesstl.github.io/meetup-nov-2020/
+About R-Ladies St. Louis intro slides: https://rladiesstl.github.io/meetup-nov-2020/
 
