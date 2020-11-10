@@ -4,3 +4,5 @@
 
 About R-Ladies St. Louis intro slides: https://rladiesstl.github.io/meetup-nov-2020/
 
+Link to Maria's repository with workshop materials: https://github.com/mcramosf/Intro_Nets_RladiesSTL
+
